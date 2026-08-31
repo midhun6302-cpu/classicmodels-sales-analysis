@@ -101,3 +101,11 @@ Other high-revenue products included:
 The **USA** generated the highest revenue at **$3,273,280.05**, making it the strongest market in the dataset.
 
 Spain and France were the next highest-revenue markets, generating **$1,099,389.09** and **$1,007,374.02**, respectively.
+
+### 4. Top Customers by Revenue
+
+**Euro+ Shopping Channel** was the highest-revenue customer, generating **$820,689.54**.
+
+**Mini Gifts Distributors Ltd.** ranked second with **$591,827.34** in revenue.
+
+These customers represent important accounts for the business and could be prioritized for customer retention strategies.
