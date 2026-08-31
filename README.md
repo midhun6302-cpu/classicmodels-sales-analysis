@@ -77,3 +77,11 @@ The project contains 20 SQL business questions covering:
 - Create data visualizations
 - Generate additional business insights
 - Present the project as a portfolio case study
+
+
+## 💡 Key Business Insights
+
+### 1. Total Company Revenue
+
+The company generated a total revenue of **$9,604,190.61** based on the available order details.
+
