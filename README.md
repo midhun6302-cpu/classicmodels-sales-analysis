@@ -117,3 +117,13 @@ These customers represent important accounts for the business and could be prior
 **Leslie** ranked second with **$1,081,530.54**, followed by **Pamela** with **$868,220.55**.
 
 The results can help management identify high-performing sales representatives and understand sales performance across the team.
+
+## 📌 Project Outcome
+
+This project demonstrates practical SQL skills for analyzing a relational sales database and answering business-focused questions.
+
+The analysis covers revenue, customers, products, countries, sales representatives, purchasing behavior, and sales trends using SQL.
+
+## 🔗 Project Repository
+
+This repository contains the SQL queries used for the complete analysis.
