@@ -85,3 +85,13 @@ The project contains 20 SQL business questions covering:
 
 The company generated a total revenue of **$9,604,190.61** based on the available order details.
 
+### 2. Top Products by Revenue
+
+The **1992 Ferrari 360 Spider red** generated the highest revenue among the analyzed products, with total revenue of **$276,839.98**.
+
+Other high-revenue products included:
+
+- 2001 Ferrari Enzo — $190,755.86
+- 1952 Alpine Renault 1300 — $190,017.96
+- 1980s Black Hawk Helicopter — $144,959.91
+- 1968 Ford Mustang — $161,531.48
