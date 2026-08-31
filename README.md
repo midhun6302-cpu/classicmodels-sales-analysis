@@ -109,3 +109,11 @@ Spain and France were the next highest-revenue markets, generating **$1,099,389.
 **Mini Gifts Distributors Ltd.** ranked second with **$591,827.34** in revenue.
 
 These customers represent important accounts for the business and could be prioritized for customer retention strategies.
+
+### 5. Sales Representative Performance
+
+**Gerard** was the highest-performing sales representative, generating **$1,258,577.81** in revenue.
+
+**Leslie** ranked second with **$1,081,530.54**, followed by **Pamela** with **$868,220.55**.
+
+The results can help management identify high-performing sales representatives and understand sales performance across the team.
