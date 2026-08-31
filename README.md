@@ -95,3 +95,9 @@ Other high-revenue products included:
 - 1952 Alpine Renault 1300 — $190,017.96
 - 1980s Black Hawk Helicopter — $144,959.91
 - 1968 Ford Mustang — $161,531.48
+
+### 3. Revenue by Country
+
+The **USA** generated the highest revenue at **$3,273,280.05**, making it the strongest market in the dataset.
+
+Spain and France were the next highest-revenue markets, generating **$1,099,389.09** and **$1,007,374.02**, respectively.
